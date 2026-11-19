@@ -1,0 +1,16 @@
+# local settings (paths of each user)
+config_common.py
+# outputs of the runs and test catalogs
+outputs/
+*/outputs/
+test_catalogs/
+*.h5
+*.hdf5
+# python
+__pycache__/
+.pytest_cache/
+*.pyc
+# macOS
+.DS_Store
+# private tools (not part of the course)
+tools/tng/build_tng_inputs.py

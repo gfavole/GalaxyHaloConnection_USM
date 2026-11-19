@@ -1,0 +1,7 @@
+[project]
+name = "galaxy-halo-connection-usm"
+version = "1.0.0"
+description = "Galaxy-halo connection course (USM 2026): HOD and SHAM models vs DESI DR1"
+authors = [{name = "Ginevra Favole", email = "gifavole@ull.edu.es"}]
+requires-python = ">=3.10"
+dependencies = ["numpy", "scipy", "pandas", "h5py", "matplotlib"]
