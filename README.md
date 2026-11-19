@@ -172,7 +172,7 @@ tools/                     synthetic test catalogs (tools/tng/: fake TNG300 inpu
 * Zhao C. — FCFC, <https://github.com/cheng-zhao/FCFC>
 * DESI Collaboration 2025, DESI DR1 (arXiv:2503.14745)
 
-If you use this code, please cite Favole et al. 2026 (ApJ 1002, 90) and the papers
-of the models you use.
+If you use this code, please cite the papers listed above for the models, data and
+tools you use.
 
 © 2026 Ginevra Favole (IAC, ULL).
